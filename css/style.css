@@ -57,7 +57,6 @@ p {
     font-family: var(--fiont-family);
     color: var(--Light-Cyan);
     width: 90%;
-
     margin-bottom: 2rem;
 
 }
@@ -96,5 +95,9 @@ button {
 @media (min-width : 500px) {
     div {
         max-width: 500px;
+    }
+
+    p{
+        font-size: 28px;
     }
 }
