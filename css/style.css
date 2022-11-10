@@ -25,6 +25,7 @@ body main {
     justify-content: center;
     align-items: center;
     background-color: var(--Dark-Blue);
+    overflow-y: hidden;
 
 }
 
