@@ -37,6 +37,7 @@ div {
     align-items: center;
     flex-direction: column;
     height: 17rem;
+    border-radius: 1rem;
     background-color: var(--Dark-Grayish-Blue);
 }
 
