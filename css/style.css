@@ -94,6 +94,10 @@ button {
     height: 65%;
 }
 
+.para{
+    margin-inline: 0.3rem;
+}
+
 @media (min-width : 600px) {
     div {
         max-width: 500px;
